@@ -30,3 +30,4 @@ C:\Users\Daniel.onyeachonam\Documents\Visual Studio 2017\TestProj\TestProj\obj\D
 C:\Users\Daniel.onyeachonam\Documents\Visual Studio 2017\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.dll
 C:\Users\Daniel.onyeachonam\Documents\Visual Studio 2017\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.pdb
 C:\Users\Daniel.onyeachonam\Documents\Visual Studio 2017\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.csproj.CopyComplete
+C:\Users\Daniel.onyeachonam\Documents\Visual Studio 2017\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.csprojAssemblyReference.cache
